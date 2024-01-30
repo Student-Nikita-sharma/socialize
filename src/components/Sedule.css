@@ -1,0 +1,18 @@
+
+
+input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__hour, input.react-time-picker__inputGroup__input.react-time-picker__inputGroup__minute.react-time-picker__inputGroup__input--hasLeadingZero {
+    width: 60px !important;
+    height: 35px;
+    margin: 10px;
+    padding: 10px;
+   
+}
+
+span.react-time-picker__inputGroup__divider {
+
+    font-size: 25px;
+}
+
+span.react-time-picker__inputGroup__leadingZero {
+    display: none;
+}
