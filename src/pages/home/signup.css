@@ -90,6 +90,23 @@ a {
 }
 
 
+/* Add this to your CSS file */
+
+.success-message {
+    color: rgb(19, 119, 19);
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color: rgb(207, 96, 96);
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
 
 @media screen and (min-device-width: 280px) and (max-device-width: 767px) {
 
