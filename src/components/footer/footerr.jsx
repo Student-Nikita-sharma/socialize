@@ -59,7 +59,7 @@ function footerr() {
 
    </div>
    <div className="footer_bot_txt">
-   <p>Copyright ©2023 Company. All Rights Reserved.</p>
+   <p>Copyright ©2023 Company. All Rights Reserved.amit</p>
    </div>
    </div>
    </section>
